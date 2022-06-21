@@ -1,4 +1,4 @@
-# Wheeler lab demo
+# Wheeler Lab Demo
 
 A github repository
 
