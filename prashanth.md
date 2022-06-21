@@ -1,3 +1,3 @@
-blue whale
+blue whale!
 loon
 bumblebee
